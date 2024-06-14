@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    background-image: url(../fylo-data-storage-component-master/images/bg-mobile.png);
+    background-image: url(./images/bg-mobile.png);
     background-size: cover;
     display: flex;
     flex-direction: column;
