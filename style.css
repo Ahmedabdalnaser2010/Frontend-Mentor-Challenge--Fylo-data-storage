@@ -194,7 +194,7 @@ i svg {
 @media (min-width:768px) {
     .container {
         background-color: var(--Very-Dark-Blue);
-        background-image: url(../fylo-data-storage-component-master/images/bg-desktop.png);
+        background-image: url(./images/bg-desktop.png);
         background-size: 100vw 50vh;
         background-repeat: no-repeat;
         background-position: bottom left;
